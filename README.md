@@ -23,15 +23,32 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 - Git & GitHub
 
 ---
+## 🚀 Projetos em Destaque
 
-## 🚀 Projetos em destaque
-
-🔹 [Calculadora Z - Python](https://github.com/ErickZaratini/calculadora-z-python)  
-Projeto utilizando Programação Orientada a Objetos com tratamento de erros e estrutura organizada.
+### 🌐 ZaratiniIA - Plataforma de IA
+Landing page moderna estilo SaaS com foco em produto digital e experiência visual.
+🔗 Projeto Online: https://erickzaratini.github.io/Zaratini.IA.Site/
+🔗 Código: LINK_DO_REPO
 
 ---
 
-## 📈 Objetivo Atual
+### 🧠 Portfólio / Currículo Online
+Site profissional com apresentação, habilidades e download de currículo.
+🔗 Projeto Online: https://erickzaratini.github.io/Curriculo/
+🔗 Código: LINK_DO_REPO
+
+---
+
+### 🐦 Corvo Voando - Animação 2D
+Projeto interativo com controle de animação, pausa e velocidade.
+🔗 Projeto Online: https://erickzaratini.github.io/corvo/
+🔗 Código: LINK_DO_REPO
+
+---
+
+### 🧮 Calculadora Z - Python (POO)
+Sistema em Python utilizando Programação Orientada a Objetos e tratamento de erros.
+🔗 Código: LINK_DO_REPO
 
 Aprimorar minha base em Python e iniciar estudos em:
 - Estruturas de dados
