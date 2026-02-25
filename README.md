@@ -47,5 +47,5 @@ Sistema em Python utilizando Programação Orientada a Objetos, tratamento de er
 ## 📈 Objetivo
 
 Desenvolver soluções Back-End eficientes, evoluindo constantemente através da construção de projetos práticos e aplicação de boas práticas de desenvolvimento.
-🔥 IMPORTANTE
+
 
