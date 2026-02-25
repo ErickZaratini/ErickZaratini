@@ -54,7 +54,7 @@ Projeto interativo utilizando lógica de animação com controle de estado (paus
 
 ### 🧮 Calculadora Z - Python (POO)
 Sistema em Python utilizando Programação Orientada a Objetos, tratamento de erros e estrutura modular.
-🔗 Código: LINK_DO_REPO
+🔗 Código: LINK_DO_REPO https://github.com/ErickZaratini/calculadora-z-python
 
 Aprimorar minha base em Python e iniciar estudos em:
 - Estruturas de dados
