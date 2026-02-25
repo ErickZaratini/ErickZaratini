@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Erick Zaratini
 
-<!--
-**ErickZaratini/ErickZaratini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python em formação  
+🚀 Focado em Back-End e construção de projetos reais  
+📚 Estudando Programação Orientada a Objetos e boas práticas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🧠 Sobre mim
+
+Sou estudante de desenvolvimento com foco em Python e lógica de programação.  
+Estou construindo projetos práticos para evoluir minha base técnica e me preparar para oportunidades na área de tecnologia.
+
+---
+
+## 🚀
 -->
