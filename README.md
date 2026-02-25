@@ -1,26 +1,8 @@
 # 👋 Olá, eu sou Erick Zaratini
 
-💻 Desenvolvedor Python em formação  
-🚀 Foco em Back-End e construção de projetos reais  
-📚 Estudando Programação Orientada a Objetos e boas práticas  
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante de desenvolvimento com foco em Python e lógica de programação.  
-Estou construindo projetos práticos para fortalecer minha base técnica e evoluir como desenvolvedor Back-End.
-
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e continuar crescendo profissionalmente.
-
----
-
-## 🛠️ Tecnologias que estou estudando
-
-- Python
-- Programação Orientada a Objetos (POO)
-- Lógica de Programação
-- Git & GitHub
+💻 Desenvolvedor Python com foco em Back-End  
+🚀 Construindo projetos práticos com Flask e boas práticas de código  
+📚 Estudando APIs REST, estrutura de dados e banco de dados  
 
 ## 🚀 Projetos em Destaque
 
@@ -56,10 +38,18 @@ Projeto interativo utilizando lógica de animação com controle de estado (paus
 Sistema em Python utilizando Programação Orientada a Objetos, tratamento de erros e estrutura modular.
 🔗 Código: LINK_DO_REPO https://github.com/ErickZaratini/calculadora-z-python
 
-Aprimorar minha base em Python e iniciar estudos em:
-- Estruturas de dados
-- APIs com Flask
-- Banco de dados
+## 🛠 Tecnologias
+
+- Python  
+- Flask  
+- Programação Orientada a Objetos (POO)  
+- Git & GitHub  
+- Lógica de Programação  
+
 ---
 
-⭐ Sempre em evolução.
+## 📈 Objetivo
+
+Desenvolver soluções Back-End eficientes, evoluindo constantemente através da construção de projetos práticos e aplicação de boas práticas de desenvolvimento.
+🔥 IMPORTANTE
+
