@@ -1,22 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003056,50:0A192F,100:5FCDFF&height=190&section=header&text=ERICK%20ZARATINI&fontSize=42&fontColor=F0F0F0&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner de Erick Zaratini" />
+<!-- Banner superior com gradiente FIAP -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003056,50:0A192F,100:5FCDFF&height=190&section=header&text=ERICK%20ZARATINI&fontSize=45&fontColor=F0F0F0&fontAlignY=35&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20IA&descAlignY=55&descSize=15&animation=fadeIn" alt="Banner de Erick Zaratini" />
 
-### `DESENVOLVEDOR EM FORMAÇÃO`
-
-**Back-End · Inteligência Artificial · Aprendizado contínuo**
-*Construindo soluções, um projeto de cada vez.*
+<!-- Efeito de digitação moderno -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5FCDFF&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+EM+FORMA%C3%87%C3%83O;FOCADO+EM+BACK-END+E+AUTOMA%C3%87%C3%83O;APRENDENDO+INTELIG%C3%8ANCIA+ARTIFICIAL;CONSTRUINDO+SOLU%C3%87%C3%95ES+REAIS" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://www.linkedin.com/in/erickzaratini/">
-    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
+    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ErickZaratini?tab=repositories">
     <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-003056?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
   </a>
 </p>
-
-`PYTHON` &nbsp;·&nbsp; `JAVA` &nbsp;·&nbsp; `JAVASCRIPT` &nbsp;·&nbsp; `BACK-END` &nbsp;·&nbsp; `INTELIGÊNCIA ARTIFICIAL`
 
 </div>
 
@@ -24,14 +23,14 @@
 
 ## `01 // SOBRE MIM`
 
-Olá, sou **Erick Zaratini** — desenvolvedor em formação com foco em **Back-End**, **automação** e **Inteligência Artificial**.
+Olá, sou o **Erick Zaratini** — desenvolvedor em formação com foco em **Back-End**, **automação** e **Inteligência Artificial**.
 
-Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transformo em projeto e documento o processo. Acredito que a evolução técnica vem de escrever código, errar, refatorar e repetir — sempre com versionamento e organização via **Git e GitHub**.
+Minha abordagem é **aprender construindo**. Estudo o conceito, transformo em projeto e documento o processo. Acredito que a evolução técnica vem de escrever código, errar, refatorar e repetir — sempre com versionamento via **Git e GitHub**.
 
 **Base prática:** Python, Java, JavaScript, HTML e CSS.
 **Em aprofundamento:** Java, JavaScript, Flask e fundamentos de IA.
 
-> **Meu foco:** transformar aprendizado em projetos reais, escrever código mais organizado e evoluir continuamente como profissional de tecnologia.
+> **Meu foco:** transformar aprendizado em projetos reais, escrever código limpo e evoluir continuamente como profissional de tecnologia.
 
 ## `02 // STACK & FERRAMENTAS`
 
@@ -57,26 +56,37 @@ Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transf
 
 </div>
 
-> Os ícones representam tecnologias com as quais já tive contato ou que estou estudando — **não indicam, por si só, nível de domínio ou certificação**.
+## `03 // MINDSET & SOFT SKILLS`
 
-## `03 // GITHUB ANALYTICS`
+*Recrutadores buscam mais do que apenas código: buscam como você resolve problemas.*
+
+*   🧠 **Documentação:** Código bom é código que outra pessoa entende. Sempre documento meus projetos.
+*   🚀 **Resolução de Problemas:** Gosto de quebrar problemas complexos em pequenas tarefas gerenciáveis.
+*   📚 **Evolução Contínua:** Leio documentação oficial, aceito feedbacks e busco ativamente boas práticas.
+*   🤝 **Trabalho em Equipe:** Acredito na colaboração, no compartilhamento de conhecimento e na comunicação clara.
+
+## `04 // O QUE ESTOU CONSTRUINDO AGORA`
+
+*Em vez de apenas listar repositórios, mostro no que estou com a mão na massa.*
+
+> 💻 **Projeto Atual:** Construindo uma API REST de autenticação e gerenciamento de usuários utilizando **Python, Flask e SQLite**. O foco é aprender boas práticas de rotas, tratamento de erros e estruturação de pastas (Clean Architecture).
+
+> 🔗 [Acompanhe a evolução nos meus repositórios](https://github.com/ErickZaratini?tab=repositories)
+
+## `05 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/ErickZaratini">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ErickZaratini&show_icons=true&hide_border=true&bg_color=003056&title_color=5FCDFF&icon_color=DC143C&text_color=F0F0F0&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-</a>
-<a href="https://github.com/ErickZaratini">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickZaratini&layout=compact&langs_count=6&hide_border=true&bg_color=003056&title_color=5FCDFF&text_color=F0F0F0" alt="Linguagens mais presentes nos repositórios" />
-</a>
+<!-- Cartões de resumo (mais estáveis que os individuais) e Gráfico de Atividade -->
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickZaratini&theme=github_dark&bg_color=003056&title_color=5FCDFF&text_color=F0F0F0&icon_color=DC143C" alt="Resumo do GitHub" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
-
-<a href="https://github.com/ErickZaratini">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ErickZaratini&hide_border=true&background=003056&ring=5FCDFF&fire=DC143C&currStreakLabel=5FCDFF&sideLabels=F0F0F0&dates=8B949E" alt="Sequência de contribuições" />
-</a>
-
-<br /><br />
+<br />
 
 <a href="https://github.com/ErickZaratini">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=003056&color=F0F0F0&line=5FCDFF&point=DC143C&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade no GitHub" />
@@ -84,31 +94,18 @@ Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transf
 
 </div>
 
-<sub>Os cartões são atualizados por serviços externos e podem apresentar atraso, cache ou indisponibilidade. O gráfico de linguagens representa a proporção de código detectada nos repositórios analisados — não mede conhecimento ou proficiência. Contribuições privadas podem não aparecer.</sub>
+<sub>Os gráficos são atualizados automaticamente por serviços externos. Projetos privados e contribuições em organizações podem não aparecer nestes cartões.</sub>
 
-## `04 // PROJETOS`
+## `06 // OBJETIVOS`
 
-Gosto de usar projetos para praticar, testar ideias e consolidar o que estudo. Estou organizando meu portfólio para destacar evolução, código e soluções desenvolvidas.
+- 🎯 Me tornar um desenvolvedor **Back-End** sólido e confiável.
+- 🎯 Construir e integrar **APIs** escaláveis e bem documentadas.
+- 🎯 Aplicar **Inteligência Artificial** em soluções do mundo real.
+- 🎯 Ingressar em uma equipe onde eu possa aprender rápido, contribuir e crescer.
 
-<div align="center">
+## `07 // VAMOS CONVERSAR?`
 
-<a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-5FCDFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
-</a>
-
-</div>
-
-## `05 // OBJETIVOS`
-
-- Aprofundar minha base em **Back-End e desenvolvimento de software**.
-- Praticar construção e integração de **APIs**.
-- Explorar aplicações de **Inteligência Artificial**.
-- Desenvolver projetos consistentes e documentados.
-- Contribuir, aprender com outras pessoas e crescer na área de tecnologia.
-
-## `06 // VAMOS CONVERSAR?`
-
-Estou aberto a trocar experiências, conhecer projetos e conversar sobre oportunidades de entrada na área de tecnologia.
+Estou aberto a trocar experiências, conhecer projetos e conversar sobre oportunidades de entrada na área de tecnologia. **Se a sua empresa busca alguém com sede de aprender e vontade de somar, vamos marcar um café (virtual)!**
 
 <div align="center">
 
