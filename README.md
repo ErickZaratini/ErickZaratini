@@ -1,125 +1,151 @@
 <div align="center">
 
-<!-- Banner Superior FIAP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003056,50:0A192F,100:5FCDFF&height=190&section=header&text=ERICK%20ZARATINI&fontSize=45&fontColor=F0F0F0&fontAlignY=35&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20IA&descAlignY=55&descSize=15&animation=fadeIn" alt="Banner de Erick Zaratini" />
+<!-- ═══════════════════════ HERO / IDENTIDADE VISUAL ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:070A12,35:17133D,68:0B3543,100:070A12&text=ERICK%20ZARATINI&fontColor=F1F5FF&fontSize=54&fontAlignY=42&desc=BACK-END%20%2F%2F%20AUTOMA%C3%87%C3%83O%20%2F%2F%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=63&descSize=13&animation=fadeIn" alt="Erick Zaratini | Developer profile" />
 
-<!-- Efeito de digitação -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5FCDFF&center=true&vCenter=true&width=600&lines=DESENVOLVEDOR+EM+FORMA%C3%87%C3%83O;N%C3%8DVEL+DE+PODER:+EM+EVOLU%C3%87%C3%83O;MODO+DARK:+ATIVADO;PRECIS%C3%83O+NO+C%C3%93DIGO+COMO+UM+CRACK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=760&lines=Transformando+curiosidade+em+c%C3%B3digo.;Aprendendo+na+pr%C3%A1tica.+Evoluindo+a+cada+projeto.;Construindo+minha+jornada+em+tecnologia." alt="Frases animadas de apresentação" />
+
+<br />
+
+<a href="https://www.linkedin.com/in/erickzaratini/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ErickZaratini?tab=repositories">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" />
+</a>
+<a href="https://github.com/ErickZaratini">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20JUNIOR%20OPPORTUNITIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Aberto a oportunidades júnior" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/erickzaratini/">
-    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ErickZaratini?tab=repositories">
-    <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-003056?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
-  </a>
-</p>
+<br /><br />
+
+`ERICK.ZARATINI` &nbsp;·&nbsp; `DEVELOPER IN PROGRESS` &nbsp;·&nbsp; `BRAZIL 🇧🇷`
 
 </div>
 
 ---
 
-## `01 // SOBRE MIM`
+## `01 / SYSTEM PROFILE`
 
-Olá, eu sou o **Erick Zaratini**. Sou um desenvolvedor em formação movido por três grandes paixões: o **Dark Mode** (para a concentração máxima), a busca pela evolução constante (**Dragon Ball Z**) e a precisão e consistência (**Lionel Messi**).
+Olá! Eu sou **Erick Zaratini** — desenvolvedor em formação, interessado em criar soluções com código e entender como a tecnologia pode resolver problemas reais.
 
-Assim como um Sayajin na Câmara do Tempo, encaro meus estudos e projetos como um treinamento para superar meus limites. A meta atual é o "Super Saiyajin" do Back-End. Já a inspiração no Messi vem da visão de jogo: enxergar o código como um todo, ter consistência diária e dar aquele passe de classe na arquitetura do sistema.
+Meu foco está em **desenvolvimento Back-End, lógica de programação, automação e Inteligência Artificial**. Gosto de aprender construindo: estudo um conceito, aplico em projetos, testo possibilidades e volto para melhorar o que fiz.
 
-**Base prática:** Python, Java, JavaScript, HTML e CSS.
-**Em aprofundamento:** Java, JavaScript, Flask e fundamentos de IA.
+Atualmente, estou fortalecendo minha base com **Python, Java e JavaScript**, enquanto aprofundo meus estudos em **Flask e Inteligência Artificial**.
 
-> **Meu foco:** Transformar aprendizado em projetos reais, escrever código limpo (Clean Code) e evoluir com a consistência de um camisa 10.
 
-## `02 // STACK & FERRAMENTAS`
+> **Minha direção:** evoluir de forma consistente, desenvolver projetos bem estruturados e transformar conhecimento em experiência prática.
+
+---
+
+## `02 / TECH ARSENAL`
 
 <div align="center">
 
-**MINHAS ESFERAS DO DRAGÃO (JÁ TIVE CONTATO)**
+### TECHNOLOGIES I HAVE USED
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Git e GitHub" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github&theme=dark&perline=7" alt="Python, Java, JavaScript, HTML5, CSS3, Git e GitHub" />
 
-<br /><br />
+<br />
 
-**PRÓXIMAS TRANSFORMAÇÕES (EM APROFUNDAMENTO)**
+### CURRENTLY DEEPENING
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,flask&theme=dark" alt="Java, JavaScript e Flask" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,js,flask&theme=dark&perline=3" alt="Java, JavaScript e Flask em aprofundamento" />
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA%20ARTIFICIAL-ESTUDANDO%20E%20EXPLORANDO-5FCDFF?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
-<img src="https://img.shields.io/badge/DARK%20MODE-ALWAYS%20ON-003056?style=for-the-badge&logo=windows-terminal&logoColor=5FCDFF" alt="Dark Mode" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-LEARNING%20%26%20EXPLORING-7C3AED?style=for-the-badge&logoColor=white" alt="Inteligência Artificial em estudo" />
+
 </div>
 
-## `03 // MINDSET & SOFT SKILLS (NÍVEL DE PODER)`
+<sub>Os ícones indicam tecnologias com as quais já tive contato e assuntos em aprofundamento. Não representam certificações nem uma escala de proficiência.</sub>
 
-*Para ser um bom jogador (ou desenvolvedor), a técnica importa, mas a mentalidade vence o jogo.*
+---
 
-*   🐉 **Superação Contínua (DBZ):** Não tenho medo de quebrar a cara nos erros de código. Cada `bug` é um treinamento para me tornar uma versão melhor (e mais forte) de mim mesmo.
-*   ⚽ **Consistência e Visão de Jogo (Messi):** Foco no treino diário. Procuro sempre dar o "passe certo" escrevendo códigos legíveis, documentando tudo e pensando na arquitetura como um todo.
-*   🌑 **Foco no Escuro (Dark Mode):** Encontrei no ambiente dark a minha zona de flow. É onde a mágica acontece, a concentração aumenta e os códigos fluem.
-*   🤝 **Trabalho em Equipe:** Acredito que o melhor código não é feito sozinho, mas sim em equipe, compartilhando conhecimento e buscando a vitória coletiva.
+## `03 / CURRENT MISSIONS`
 
-## `04 // O QUE ESTOU CONSTRUINDO AGORA`
-
-*Juntando as esferas para criar o projeto perfeito.*
-
-> 💻 **Projeto Atual (Missão Principal):** Construindo uma API REST de autenticação e gerenciamento de usuários utilizando **Python, Flask e SQLite**. O objetivo é aplicar boas práticas de Clean Architecture e tratamento de exceções. A meta é fazer esse projeto passar no "VAR" (code review) sem nenhum impedimento!
-
-> 🔗 [Acompanhe a evolução nos meus repositórios](https://github.com/ErickZaratini?tab=repositories)
-
-## `05 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<!-- Cartões de resumo e Gráfico de Atividade com a paleta FIAP -->
-<table border="0">
+<table>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErickZaratini&theme=github_dark&bg_color=003056&title_color=5FCDFF&text_color=F0F0F0&icon_color=DC143C" alt="Resumo do GitHub" width="100%" />
+    <td width="33%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/01-BACK--END-8B5CF6?style=flat-square" alt="Back-End" /></p>
+      <p align="center"><strong>Construir a base</strong></p>
+      <p align="center">Lógica, orientação a objetos, APIs e organização de aplicações.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/02-FLASK%20%26%20WEB-0891B2?style=flat-square" alt="Flask e Web" /></p>
+      <p align="center"><strong>Praticar desenvolvimento</strong></p>
+      <p align="center">Aprofundar JavaScript e Flask para criar aplicações web.</p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><img src="https://img.shields.io/badge/03-ARTIFICIAL%20INTELLIGENCE-7C3AED?style=flat-square" alt="Inteligência Artificial" /></p>
+      <p align="center"><strong>Explorar possibilidades</strong></p>
+      <p align="center">Entender conceitos de IA e experimentar aplicações práticas.</p>
     </td>
   </tr>
 </table>
 
-<br />
+<div align="center">
 
-<a href="https://github.com/ErickZaratini">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=003056&color=F0F0F0&line=5FCDFF&point=DC143C&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade no GitHub" />
-</a>
+`IDEA` &nbsp; ⟶ &nbsp; `CODE` &nbsp; ⟶ &nbsp; `TEST` &nbsp; ⟶ &nbsp; `IMPROVE` &nbsp; ⟶ &nbsp; `REPEAT`
 
 </div>
 
-<sub>Os gráficos são atualizados automaticamente por serviços externos. Projetos privados e contribuições em organizações podem não aparecer nestes cartões.</sub>
+---
 
-## `06 // OBJETIVOS`
-
-- ⚡ Alcançar o "Super Saiyajin" no **Back-End**: me tornar um desenvolvedor sólido, confiável e com código de excelência.
-- 🏗️ Construir e integrar **APIs** escaláveis e bem documentadas.
-- 🤖 Inserir **Inteligência Artificial** em soluções práticas do dia a dia.
-- 🏆 Entrar em um time onde eu possa jogar ao lado de grandes nomes, aprender rápido e conquistar meus títulos (resultados).
-
-## `07 // VAMOS CONVERSAR?`
-
-Estou sempre aberto a trocar experiências, conhecer novos projetos e conversar sobre oportunidades na área de tecnologia. **Se a sua empresa busca alguém com a resiliência do Goku para aprender rápido e a genialidade do Messi para resolver problemas, bora tomar um café (virtual)!**
+## `04 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/erickzaratini/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ERICK%20ZARATINI-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
+<a href="https://github.com/ErickZaratini">
+  <img height="185" width="49%" src="https://github-stats-extended.vercel.app/api?username=ErickZaratini&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F19&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&ring_color=22D3EE&custom_title=DEVELOPER%20METRICS" alt="Estatísticas gerais do GitHub" />
 </a>
 <a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/GITHUB-MEUS%20PROJETOS-003056?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Erick Zaratini" />
+  <img height="185" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ErickZaratini&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0B0F19&title_color=A78BFA&text_color=CBD5E1&custom_title=CODE%20DISTRIBUTION" alt="Gráfico de distribuição de linguagens" />
 </a>
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5FCDFF,50:0A192F,100:003056&height=105&section=footer" alt="Rodapé em estilo FIAP" />
+<a href="https://github.com/ErickZaratini">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=0B0F19&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=312E81&hide_border=true&radius=10&height=300&days=35&custom_title=CONTRIBUTION%20SIGNAL%20%E2%80%94%20LAST%2035%20DAYS" alt="Gráfico de atividade recente no GitHub" />
+</a>
 
-<sub>"O talento vence jogos, mas só o trabalho em equipe e a consistência ganham campeonatos."</sub>
+</div>
+
+<sub>Os cartões consultam os repositórios públicos e podem ter cache ou indisponibilidade temporária. A distribuição de linguagens considera o código detectado nos repositórios próprios públicos — não mede domínio técnico. O gráfico de atividade mostra contribuições recentes registradas pelo GitHub.</sub>
+
+---
+
+## `05 / PROJECT VAULT`
+
+Projetos são meu laboratório: é onde transformo estudo em prática, testo ideias e documento minha evolução.
+
+<div align="center">
+
+<a href="https://github.com/ErickZaratini?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20PROJECT%20VAULT-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Abrir todos os projetos" />
+</a>
+
+</div>
+
+---
+
+## `06 / CONNECT`
+
+Estou aberto a **oportunidades júnior**, colaboração em projetos e conversas com pessoas da área de tecnologia.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/erickzaratini/">
+  <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONVERSAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
+</a>
+<a href="https://github.com/ErickZaratini?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos no GitHub" />
+</a>
+
+<br /><br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:070A12,50:17133D,100:0B3543&section=footer" alt="Rodapé em gradiente dark" />
+
+<sub><strong>KEEP BUILDING. KEEP LEARNING.</strong> &nbsp; // &nbsp; Obrigado por visitar meu perfil.</sub>
 
 </div>
