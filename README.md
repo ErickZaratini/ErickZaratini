@@ -1,136 +1,128 @@
-<!-- =====================================================
-     ERICK ZARATINI | GITHUB PROFILE README
-     Visual: Gamer Dark / Cyberpunk
-     Para atualizar: edite este README.md no repositório
-     público com o mesmo nome do seu usuário: ErickZaratini
-====================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:0891B2&height=210&section=header&text=ERICK%20ZARATINI&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=DEVELOPMENT%20%7C%20BACK-END%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=14&animation=fadeIn" alt="Banner Erick Zaratini" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:24104F,100:063B50&height=190&section=header&text=ERICK%20ZARATINI&fontSize=42&fontColor=F4F7FF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner de Erick Zaratini" />
 
-<a href="https://github.com/ErickZaratini">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias;Python+%7C+Java+%7C+JavaScript+%7C+IA" alt="Texto animado de apresentação" />
-</a>
+### `DESENVOLVEDOR EM FORMAÇÃO`
 
-<br />
+**Back-End · Inteligência Artificial · Aprendizado contínuo**
+*Construindo soluções, um projeto de cada vez.*
 
-<a href="https://www.linkedin.com/in/erickzaratini/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/ErickZaratini">
-  <img src="https://img.shields.io/badge/GitHub-ErickZaratini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/MEUS-PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/erickzaratini/">
+    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
+  </a>
+  <a href="https://github.com/ErickZaratini?tab=repositories">
+    <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
+  </a>
+</p>
+
+`PYTHON` &nbsp;·&nbsp; `JAVA` &nbsp;·&nbsp; `JAVASCRIPT` &nbsp;·&nbsp; `BACK-END` &nbsp;·&nbsp; `INTELIGÊNCIA ARTIFICIAL`
 
 </div>
 
 ---
 
-## `> whoami`
+## `01 // SOBRE MIM`
 
-```bash
-$ nome: Erick Zaratini
-$ perfil: Desenvolvedor em formação
-$ interesses: Desenvolvimento de software, Back-End, automação e Inteligência Artificial
-$ objetivo: Transformar conhecimento em projetos úteis e evoluir continuamente na tecnologia
-$ status: Sempre aprendendo. Sempre construindo.
-```
+Olá, sou **Erick Zaratini** — desenvolvedor em formação com foco em **Back-End**, **automação** e **Inteligência Artificial**.
 
-Sou desenvolvedor em formação e gosto de aprender colocando a mão no código. Tenho contato com Python, Java, JavaScript, HTML e CSS, além de ferramentas de versionamento como Git e GitHub. Atualmente, estou aprofundando meus conhecimentos em desenvolvimento, Flask e Inteligência Artificial.
+Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transformo em projeto e documento o processo. Acredito que a evolução técnica vem de escrever código, errar, refatorar e repetir — sempre com versionamento e organização via **Git e GitHub**.
 
-Meu objetivo é desenvolver soluções práticas, fortalecer minha base técnica e construir uma trajetória profissional na área de tecnologia.
+**Base prática:** Python, Java, JavaScript, HTML e CSS.
+**Em aprofundamento:** Java, JavaScript, Flask e fundamentos de IA.
 
-## `> tech_stack --used`
+> **Meu foco:** transformar aprendizado em projetos reais, escrever código mais organizado e evoluir continuamente como profissional de tecnologia.
 
-**Tecnologias com as quais já tive contato e pratiquei:**
+## `02 // STACK & FERRAMENTAS`
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,github,java,js&theme=dark)](https://skillicons.dev)
+**JÁ TIVE CONTATO**
 
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-Contato%20e%20explora%C3%A7%C3%A3o-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Git e GitHub" />
+</a>
+
+<br /><br />
+
+**EM APROFUNDAMENTO**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,flask&theme=dark" alt="Java, JavaScript e Flask" />
+</a>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA%20ARTIFICIAL-ESTUDANDO%20E%20EXPLORANDO-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
 
 </div>
 
-## `> currently_learning.exe`
+> Os ícones representam tecnologias com as quais já tive contato ou que estou estudando — **não indicam, por si só, nível de domínio ou certificação**.
 
-**Conhecimentos que estou estudando e aprofundando neste momento:**
+## `03 // GITHUB ANALYTICS`
 
 <div align="center">
 
-[![Currently Learning](https://skillicons.dev/icons?i=java,js,flask&theme=dark)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/IA-Em%20aprendizado-22D3EE?style=for-the-badge&logo=openai&logoColor=0D1117" alt="Inteligência Artificial em aprendizado" />
-
-</div>
-
-## `> github_stats --live`
-
-<div align="center">
-
 <a href="https://github.com/ErickZaratini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickZaratini&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub de Erick Zaratini" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ErickZaratini&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=A78BFA&icon_color=22D3EE&text_color=D8DEE9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/ErickZaratini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickZaratini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" alt="Linguagens mais usadas nos repositórios públicos" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickZaratini&layout=compact&langs_count=6&hide_border=true&bg_color=0B0F19&title_color=A78BFA&text_color=D8DEE9" alt="Linguagens mais presentes nos repositórios" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://github.com/ErickZaratini">
-  <img width="72%" src="https://streak-stats.demolab.com?user=ErickZaratini&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições no GitHub" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ErickZaratini&hide_border=true&background=0B0F19&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=D8DEE9&dates=8B949E" alt="Sequência de contribuições" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://github.com/ErickZaratini">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=22D3EE&area=true&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições do GitHub" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=0B0F19&color=D8DEE9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade no GitHub" />
 </a>
 
 </div>
 
-## `> featured_repositories`
+<sub>Os cartões são atualizados por serviços externos e podem apresentar atraso, cache ou indisponibilidade. O gráfico de linguagens representa a proporção de código detectada nos repositórios analisados — não mede conhecimento ou proficiência. Contribuições privadas podem não aparecer.</sub>
 
-Confira meus projetos, códigos e experimentos no repositório público:
+## `04 // PROJETOS`
+
+Gosto de usar projetos para praticar, testar ideias e consolidar o que estudo. Estou organizando meu portfólio para destacar evolução, código e soluções desenvolvidas.
 
 <div align="center">
 
 <a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/ABRIR-REPOSIT%C3%93RIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Abrir todos os repositórios" />
+  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
 </a>
 
 </div>
 
-## `> connect_with_me`
+## `05 // OBJETIVOS`
 
-Estou aberto a oportunidades de aprendizado, networking e desafios na área de tecnologia.
+- Aprofundar minha base em **Back-End e desenvolvimento de software**.
+- Praticar construção e integração de **APIs**.
+- Explorar aplicações de **Inteligência Artificial**.
+- Desenvolver projetos consistentes e documentados.
+- Contribuir, aprender com outras pessoas e crescer na área de tecnologia.
+
+## `06 // VAMOS CONVERSAR?`
+
+Estou aberto a trocar experiências, conhecer projetos e conversar sobre oportunidades de entrada na área de tecnologia.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/erickzaratini/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-ERICK%20ZARATINI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
 </a>
-<a href="https://github.com/ErickZaratini">
-  <img src="https://img.shields.io/badge/GitHub-Acompanhe%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
+<a href="https://github.com/ErickZaratini?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-MEUS%20PROJETOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Erick Zaratini" />
 </a>
 
-<br />
+<br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:312E81,100:0D1117&height=110&section=footer" alt="Rodapé decorativo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063B50,50:24104F,100:080B16&height=105&section=footer" alt="Rodapé em estilo cyber dark" />
+
+<sub>"A evolução acontece quando a curiosidade encontra a prática."</sub>
 
 </div>
-
-<!--
-NOTAS:
-1. Os cartões e gráficos são fornecidos por serviços externos e podem ficar
-   temporariamente indisponíveis ou sujeitos a limites de uso/cache.
-2. O cartão de linguagens estima a distribuição de código nos repositórios
-   analisados; não representa nível de domínio ou habilidade profissional.
-3. As estatísticas refletem os dados que os serviços conseguem consultar
-   no GitHub. Não representam necessariamente atividade privada.
-4. GitHub não executa JavaScript em README. O visual dinâmico vem de imagens
-   SVG externas atualizadas pelos serviços citados.
--->
