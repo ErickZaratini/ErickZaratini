@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:24104F,100:063B50&height=190&section=header&text=ERICK%20ZARATINI&fontSize=42&fontColor=F4F7FF&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner de Erick Zaratini" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003056,50:0A192F,100:5FCDFF&height=190&section=header&text=ERICK%20ZARATINI&fontSize=42&fontColor=F0F0F0&fontAlignY=38&desc=DESENVOLVIMENTO%20%7C%20BACK-END%20%7C%20INTELIG%C3%8ANCIA%20ARTIFICIAL&descAlignY=60&descSize=13&animation=fadeIn" alt="Banner de Erick Zaratini" />
 
 ### `DESENVOLVEDOR EM FORMAÇÃO`
 
@@ -9,10 +9,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/erickzaratini/">
-    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
+    <img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20CONECTAR-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
   </a>
   <a href="https://github.com/ErickZaratini?tab=repositories">
-    <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-VER%20PROJETOS-003056?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transf
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA%20ARTIFICIAL-ESTUDANDO%20E%20EXPLORANDO-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
+<img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA%20ARTIFICIAL-ESTUDANDO%20E%20EXPLORANDO-5FCDFF?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
 
 </div>
 
@@ -64,22 +64,22 @@ Minha abordagem é simples: **aprender construindo**. Estudo um conceito, transf
 <div align="center">
 
 <a href="https://github.com/ErickZaratini">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ErickZaratini&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=A78BFA&icon_color=22D3EE&text_color=D8DEE9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ErickZaratini&show_icons=true&hide_border=true&bg_color=003056&title_color=5FCDFF&icon_color=DC143C&text_color=F0F0F0&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
 </a>
 <a href="https://github.com/ErickZaratini">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickZaratini&layout=compact&langs_count=6&hide_border=true&bg_color=0B0F19&title_color=A78BFA&text_color=D8DEE9" alt="Linguagens mais presentes nos repositórios" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/ErickZaratini">
-  <img width="70%" src="https://streak-stats.demolab.com?user=ErickZaratini&hide_border=true&background=0B0F19&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=D8DEE9&dates=8B949E" alt="Sequência de contribuições" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickZaratini&layout=compact&langs_count=6&hide_border=true&bg_color=003056&title_color=5FCDFF&text_color=F0F0F0" alt="Linguagens mais presentes nos repositórios" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/ErickZaratini">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=0B0F19&color=D8DEE9&line=A78BFA&point=22D3EE&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade no GitHub" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=ErickZaratini&hide_border=true&background=003056&ring=5FCDFF&fire=DC143C&currStreakLabel=5FCDFF&sideLabels=F0F0F0&dates=8B949E" alt="Sequência de contribuições" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/ErickZaratini">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=003056&color=F0F0F0&line=5FCDFF&point=DC143C&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de atividade no GitHub" />
 </a>
 
 </div>
@@ -93,7 +93,7 @@ Gosto de usar projetos para praticar, testar ideias e consolidar o que estudo. E
 <div align="center">
 
 <a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
+  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-5FCDFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
 </a>
 
 </div>
@@ -113,15 +113,15 @@ Estou aberto a trocar experiências, conhecer projetos e conversar sobre oportun
 <div align="center">
 
 <a href="https://www.linkedin.com/in/erickzaratini/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ERICK%20ZARATINI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
+  <img src="https://img.shields.io/badge/LINKEDIN-ERICK%20ZARATINI-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Erick Zaratini" />
 </a>
 <a href="https://github.com/ErickZaratini?tab=repositories">
-  <img src="https://img.shields.io/badge/GITHUB-MEUS%20PROJETOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Erick Zaratini" />
+  <img src="https://img.shields.io/badge/GITHUB-MEUS%20PROJETOS-003056?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Erick Zaratini" />
 </a>
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063B50,50:24104F,100:080B16&height=105&section=footer" alt="Rodapé em estilo cyber dark" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5FCDFF,50:0A192F,100:003056&height=105&section=footer" alt="Rodapé em estilo FIAP" />
 
 <sub>"A evolução acontece quando a curiosidade encontra a prática."</sub>
 
