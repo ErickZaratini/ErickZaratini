@@ -106,12 +106,12 @@ Atualmente, estou fortalecendo minha base com **Python, Java e JavaScript**, enq
 <br /><br />
 
 <a href="https://github.com/ErickZaratini">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErickZaratini&bg_color=0B0F19&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=312E81&hide_border=true&radius=10&height=300&days=35&custom_title=CONTRIBUTION%20SIGNAL%20%E2%80%94%20LAST%2035%20DAYS" alt="Gráfico de atividade recente no GitHub" />
+  <img width="100%" src="https://ghchart.rshah.org/8B5CF6/ErickZaratini" alt="Calendário de contribuições públicas no GitHub" />
 </a>
 
 </div>
 
-<sub>Os cartões consultam os repositórios públicos e podem ter cache ou indisponibilidade temporária. A distribuição de linguagens considera o código detectado nos repositórios próprios públicos — não mede domínio técnico. O gráfico de atividade mostra contribuições recentes registradas pelo GitHub.</sub>
+<sub>Os cartões consultam os repositórios públicos e podem ter cache ou indisponibilidade temporária. A distribuição de linguagens considera o código detectado nos repositórios próprios públicos — não mede domínio técnico. O calendário mostra contribuições públicas registradas pelo GitHub nos últimos 12 meses.</sub>
 
 ---
 
